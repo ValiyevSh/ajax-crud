@@ -1,5 +1,5 @@
 {
-    "name": "ValiyevSh/yii2-ajaxcrud",
+    "name": "Valiyev-Sh/yii2-ajaxcrud",
     "description": "Gii CRUD template for Single Page Ajax Administration for yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","ajax","crud","gii","template","database"],
@@ -24,10 +24,10 @@
     },
     "autoload": {
         "psr-4": {
-            "ValiyevSh\\ajaxcrud\\": "src/"
+            "Valiyev-Sh\\ajaxcrud\\": "src/"
         }
     },
     "extra": {
-        "bootstrap": "ValiyevSh\\ajaxcrud\\Bootstrap"
+        "bootstrap": "Valiyev-Sh\\ajaxcrud\\Bootstrap"
     }
 }
